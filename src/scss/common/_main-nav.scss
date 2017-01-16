@@ -1,0 +1,20 @@
+/* #MEGA MENU */
+
+.mega-menu {
+}
+
+// main navigation
+.main-nav {
+}
+.main-nav__list {
+    @extend %listreset;
+}
+.main-nav__item {
+    > a {
+        &:hover { }
+    }
+}
+.main-nav__drop {
+}
+.main-nav__drop-item {
+}

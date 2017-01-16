@@ -1,4 +1,9 @@
 # gulp-start
+
+--
+
+# ![Gulp Start](extras/img/gulp2.jpg)
+
 A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder 
 
 Gulp Starter is a delicious blend of tasks and build tools poured into [Gulp](http://gulpjs.com/) to form a full-featured modern asset pipeline. It can be used as-is as a static site builder, or can be configured and integrated into your own development environment and site or app structure.

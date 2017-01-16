@@ -1,0 +1,23 @@
+/*#MAIN LAYOUT*/
+
+html {
+  width: 100vw;
+  overflow-x: hidden;
+}
+.fancybox-margin {
+  margin-right: 0 !important;
+}
+.btn, a { @include anim; }
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.container {
+  max-width: $container-xl;
+  margin: 0 auto;
+  padding: 0 $side-gutters;
+}
+.main {
+  flex: 1 0 auto;
+}

@@ -1,0 +1,27 @@
+// vendors
+@import '../../node_modules/normalize-scss/sass/normalize';
+@import 'vendors/include-media';
+
+@import 'base/variables';
+@import 'base/mixins';
+
+@import 'helpers/helpers';
+@import 'helpers/responsive-visibility';
+@import 'helpers/responsive-utilities';
+@import 'helpers/classes';
+
+@import 'components/icons';
+@import 'components/buttons';
+
+@import 'common/main-settings';
+@import 'common/typography';
+@import 'common/forms';
+@import 'common/layout';
+@import 'common/header';
+@import 'common/main-nav';
+@import 'common/footer';
+
+@import 'widgets/';
+
+/*
+main styles was here*/

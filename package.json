@@ -1,0 +1,49 @@
+{
+  "name": "Gulp-front",
+  "version": "1.0.0",
+  "description": "The template for quick start of development with Gulp, Sass and ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aglovlyuk@gmail.com",
+  "license": "ISC",
+  "repository" :
+    { "type" : "git"
+      , "url" : "https://github.com/"
+    },
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "browser-sync": "^2.14.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-if": "^2.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-path": "^3.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-posthtml": "^2.0.0",
+    "gulp-prettify": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.0.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-svg-symbols": "^2.0.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.9",
+    "gulp-zip": "^3.2.0",
+    "imagemin-pngquant": "^5.0.0",
+    "posthtml-attrs-sorter": "^0.1.3",
+    "postcss-sorting": "^1.6.1",
+    "run-sequence": "^1.2.2",
+    "stylefmt": "^4.2.3",
+
+    "normalize-scss": "*",
+    "jquery": "2.*"
+  }
+}

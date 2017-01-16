@@ -1,0 +1,15 @@
+.sr-only {
+    border: 0 none;
+    clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.img-responsive {
+    max-width: 100%;
+    width: auto;
+    display: block;
+}
